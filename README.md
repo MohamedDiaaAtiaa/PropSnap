@@ -2,4 +2,5 @@
 ## Your gateway to real estate mediation
 Search the app on github pages to learn more!
 ### Made with ❤️ by  Mohamed Diaa
-    <span style="color:red;">This is a prototype</span>
+
+<p style="color:red;"><strong>WARNING: THIS IS A PROTOTYPE</strong></p>
